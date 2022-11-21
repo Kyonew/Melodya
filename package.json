@@ -1,0 +1,23 @@
+{
+  "name": "melodya",
+  "version": "1.0.0",
+  "description": "Bot musique complet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyonew",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^15.0.0",
+    "ffmpeg-static": "^4.4.1",
+    "genius-lyrics-api": "^3.2.0",
+    "mongoose": "^6.2.1",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "reconlx": "^2.5.2"
+  }
+}
